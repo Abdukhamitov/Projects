@@ -1,0 +1,6 @@
+NAME COUNTRY AGE 
+Idiri kg 20 
+Ilyaz Uk 18 
+Saparbay Poland 19 
+Kurmanbek Batken 19 
+Tima KZ 19 
