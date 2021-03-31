@@ -1,0 +1,6 @@
+1.Execute the game
+2.Give a word in console
+3.Then game automatically will start
+4.Press any letter you want
+5.Press ENTER to submit your letter
+6.Enjoy Playing
